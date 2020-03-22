@@ -30,6 +30,10 @@ To set up the anticheat in versions 0.3 and later, you must first type
 * Enabling and disabling checks
 
 ## Changelog
+### 0.7
+* Wurst fightbot now will detect
+* Slow falling wont activate nofall checks
+
 ### 0.6
 * Fixed nofall false activating occasionally if the server lagged
 
