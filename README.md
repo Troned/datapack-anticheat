@@ -24,7 +24,7 @@ To set up the anticheat in versions 0.3 and later, you must first type
 * Flight detection
 * Speed detection
 * Xray detection
-* Kilaura detection
+* Killaura detection
 * Nofall detection
 
 * Enabling and disabling checks
