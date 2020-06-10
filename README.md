@@ -1,4 +1,4 @@
-# Datapack Anticheat
+# Datapack Anticheat (DISCONTINUED)
 
 ## Install
 After downloading the version that you want, simply move it into the datapacks folder located in
